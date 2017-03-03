@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="addinmodule.cs" />
     <Compile Include="Cost.cs" />
+    <Compile Include="Count.cs" />
     <Compile Include="CostAmount.cs" />
     <Compile Include="ObjIDs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
